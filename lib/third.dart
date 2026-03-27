@@ -13,7 +13,6 @@ class Third extends StatelessWidget {
           Center(
             child: Text("sjdnksdj"),
           ),
-          Text("salom"),
         ],
       )
     );
