@@ -8,6 +8,9 @@ class Third extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: Text("salom"),),
       backgroundColor: Colors.red,
+      body: Center(
+        child: Text("sjdnksdj"),
+      )
     );
   }
 }
